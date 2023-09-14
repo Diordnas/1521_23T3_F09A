@@ -1,2 +1,2 @@
 # 1521_23T3_F09A
-Tutorial resources for my COMP1521 23T3 F09A tut-lab.
+Hey everybody! This is where I'll put any code I write during each week's labs, as well as my slides.
