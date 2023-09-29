@@ -11,7 +11,7 @@ Week 3 Tute
 # Assignment 1
  - It is due pretty soon! (Friday Week 5, 8pm)
  - Assignment content includes functions, which are in the Week 4 labs
- - Start early - you don't need to learn functions to dive in and start translating
+ - Start early - you don't *need* to learn functions to dive in and start translating
 
 ---
 
@@ -49,7 +49,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -70,7 +70,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -91,7 +91,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -112,7 +112,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -133,7 +133,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -155,7 +155,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -177,7 +177,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
@@ -199,7 +199,7 @@ Let's say memory looks like this:
 ```
 ADDRESS       DATA    DEFINTION
 0x10010000    aa:     .word 42
-0x10010004    bb:     .word 666
+0x10010004    bb:     .word 1000
 0x10010008    cc:     .word 1
 0x1001000C            .word 3
 0x10010010            .word 5
