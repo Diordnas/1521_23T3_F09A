@@ -1,7 +1,7 @@
 # 1521_23T3_F09A
 Hey everybody! This is where I'll put any code I write during each week's labs, as well as my slides.
 
-## My VSCode Theme
+## My VSCode Extensions
 Here's a quick rundown on the extensions I use to make my VSCode look the way it does.
 
 ### [Mipsy Editor Features](https://marketplace.visualstudio.com/items?itemName=xavc.xavc-mipsy-features)
