@@ -72,7 +72,7 @@ $$2^2(1)+2(0)+1(1)=4+1=5$$
 
 # Decimal to Binary
 
-How would the binary numeral `101010` be represented in decimal?
+How would the binary number `101010` be represented in decimal?
 
 Anwser: __
 
@@ -199,8 +199,8 @@ To compute these operations, write the number as a binary number, and then compa
 | Input 1 | Input 2 || OR | AND | XOR |
 |:-------:|:-------:|-|:--:|:---:|-----|
 |    0    |    0    ||  0 |  0  | 0   |
-|    0    |    1    ||  1 |  1  | 1   |
-|    1    |    0    ||  1 |  1  | 1   |
+|    0    |    1    ||  1 |  0  | 1   |
+|    1    |    0    ||  1 |  0  | 1   |
 |    1    |    1    ||  1 |  1  | 0   |
 
 ---
@@ -373,7 +373,7 @@ uint8_t add_one_at_position(uint8_t value, int position) {
 
 BCD (Binary-Coded Decimal) is not the same as binary, it's yet another method of representing numbers.
 
-Specifically, it's an encoding, different to C's usual encoding. This means that if we store a BCD-encoded number, C won't understand the encoding.
+Specifically, it's an encoding, different to C's usual encoding . This means that if we store a BCD-encoded number, C won't understand the encoding.
 
 To translate a decimal representation of a number to a BCD representation of a number:
  - Look at each digit of the decimal representation of the number.
